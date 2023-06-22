@@ -1,0 +1,25 @@
+.bgc-container {
+  background-color: white;
+  height: 90vh;
+  border-style: solid;
+  border-color: #6d396b;
+  border-top: none;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  border-top-left-radius: none;
+  border-top-right-radius: none;
+  border-bottom-left-radius: 8px;
+  border-bottom-right-radius: 8px;
+}
+
+.img-icon {
+  height: 300px;
+  width: 300px;
+}
+.heading {
+  color: #551e53;
+  font-size: 50px;
+}
